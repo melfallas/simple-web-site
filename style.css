@@ -9,6 +9,18 @@
 
 
 /* basic elements */
+
+h1 { 
+	/* font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0;  */
+	color: #5c7d5d;
+	}
+
+	h2 {
+		color: #d85241;
+		}
+
 html {
 	margin: 0;
 	padding: 0;
